@@ -1,4 +1,4 @@
-package com.shakthi.entity;
+package com.Happy.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -18,5 +18,5 @@ public class RegisterEntity {
     private String userName;
     private String userPhone;
     private String userPassword;
-    
+
 }
